@@ -1,3 +1,4 @@
 Gitのバージョン管理を練習します
 .git add
 .git commit
+.git rm
